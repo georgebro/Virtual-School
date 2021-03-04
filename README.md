@@ -1,4 +1,4 @@
-# Virtual-School
+# Virtual School
 # Java Core Project
 # OOP Concepts 
 Creating a virtual "school" with students, teachers, and classes. 
