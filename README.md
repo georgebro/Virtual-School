@@ -1,4 +1,4 @@
-# Virtual School
+# The Virtual School 
 # Java Core Project
 # OOP Concepts 
 
